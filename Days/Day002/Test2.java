@@ -1,6 +1,23 @@
 import java.util.Scanner;
 
 // Efficient Solution
+
+// Question : use a,b,n to create the follwing series
+// (a + 2^0 * b), (a + 2^0 * b+ 2^1 * b)
+
+// sample input value set
+// **********************
+// 2 [query count]
+// 0 2 10 [1st value set]
+// 5 3 5 [2nd value set]
+// **********************
+
+// sample output
+// **********************
+// 2 6 14 30 62 126 254 510 1022 2046
+// 8 14 26 50 98
+// **********************
+
 public class Test2 {
 
     public static void main(String[] args) {
