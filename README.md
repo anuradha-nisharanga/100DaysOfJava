@@ -5,3 +5,4 @@ Day001 - Sum of Array Elements
 Day002 - Hacker Rank - Java Loops
 Day003 - Hacker Rank - Data Types identify
 Day004 - Reversed a String
+Day005 - Java Stream API for each
