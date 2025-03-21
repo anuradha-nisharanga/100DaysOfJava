@@ -13,9 +13,6 @@ public class Task {
             reversedValue = value.charAt(i) + reversedValue;
             System.out.println(reversedValue);
         }
-
-
-
     }
     
 }
