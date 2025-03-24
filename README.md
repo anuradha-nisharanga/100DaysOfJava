@@ -9,4 +9,4 @@ Day005 - Java Stream API for each
 Day006 - Find average of array elements
 Day007 - HashMap
 Day008 - LeetCode:88 Merge Sorted Array
-Day008 - LeetCode:27 element
+Day009 - LeetCode:27 remove element
