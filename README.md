@@ -10,3 +10,4 @@ Day006 - Find average of array elements
 Day007 - HashMap
 Day008 - LeetCode:88 Merge Sorted Array
 Day009 - LeetCode:27 remove element
+Day010 - DO While Loop and while Loop
