@@ -13,5 +13,6 @@ Day009 - LeetCode:27 remove element \
 Day010 - DO While Loop and while Loop \
 Day011 - Find lowest element from an array \
 Day012 - Lambda  \
-Day013 - String count words and letters
+Day013 - String count words and letters \
+Day014 - recap which already done
 
