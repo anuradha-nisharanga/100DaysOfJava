@@ -16,6 +16,7 @@ Day012 - Lambda  \
 Day013 - String count words and letters \
 Day014 - Recap which already done \
 Day015 - Solid principles - Single Responsibility \
-Day016 - Stream API findfirst method
+Day016 - Stream API findfirst method \
+Day017 - Stream API with Integers
 
 
