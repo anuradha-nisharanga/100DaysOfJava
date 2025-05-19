@@ -12,12 +12,11 @@ Day008 - LeetCode:88 Merge Sorted Array \
 Day009 - LeetCode:27 remove element \
 Day010 - DO While Loop and while Loop \
 Day011 - Find lowest element from an array \
-Day012 - Lambda  \
+Day012 - Lambda \
 Day013 - String count words and letters \
 Day014 - Recap which already done \
 Day015 - Solid principles - Single Responsibility \
 Day016 - Stream API findfirst method \
 Day017 - Stream API with Integers \
-Day018 - preIncrement and postIncrement differentiation
-
-
+Day018 - pre Increment and post Increment differentiation \
+Day019 - String substring method 

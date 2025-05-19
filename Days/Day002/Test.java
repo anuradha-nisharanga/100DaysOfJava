@@ -1,3 +1,5 @@
+package Day002;
+
 import java.util.Scanner;
 
 // Question : use a,b,n to create the follwing series
