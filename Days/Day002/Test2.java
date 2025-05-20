@@ -1,3 +1,5 @@
+package Day002;
+
 import java.util.Scanner;
 
 // Efficient Solution

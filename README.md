@@ -19,4 +19,5 @@ Day015 - Solid principles - Single Responsibility \
 Day016 - Stream API findfirst method \
 Day017 - Stream API with Integers \
 Day018 - pre Increment and post Increment differentiation \
-Day019 - String substring method 
+Day019 - String substring method \
+Day020 - Stream API with String
