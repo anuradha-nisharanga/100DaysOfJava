@@ -20,4 +20,5 @@ Day016 - Stream API findfirst method \
 Day017 - Stream API with Integers \
 Day018 - pre Increment and post Increment differentiation \
 Day019 - String substring method \
-Day020 - Stream API with String
+Day020 - Stream API with String \
+Day021 - Stream API with collectors  method \ 
