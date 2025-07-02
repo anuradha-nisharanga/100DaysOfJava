@@ -1,6 +1,6 @@
 # 100DaysOfJava
 
-This is my Consistent java coding challange for 100 Days. started 16th Mardh 2025 End in 23rd of June 2025.\
+This is my Consistent java coding challange for 100 Days. started 16th March
 Day001 - Sum of Array Elements \
 Day002 - Hacker Rank - Java Loops \
 Day003 - Hacker Rank - Data Types identify \
