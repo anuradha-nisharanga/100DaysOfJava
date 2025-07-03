@@ -22,4 +22,5 @@ Day018 - pre Increment and post Increment differentiation \
 Day019 - String substring method \
 Day020 - Stream API with String \
 Day021 - Stream API with collectors  method \ 
-Day022 - String imutability  
+Day022 - String imutability \
+Day023 - Singleton design pattern
