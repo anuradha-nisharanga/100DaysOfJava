@@ -7,7 +7,6 @@ public class Demo {
         int target = 11;
 
         int result = binarySearch(nums, target);
-        int result1 = linearSearch(nums, target);
 
         if (result != -1) {
             System.out.println("Element found at index: " + result);
@@ -21,15 +20,13 @@ public class Demo {
         
         int left = 0;
         int right = nums.length -1;
-        int steps = 0;
 
         while (left <= right) {
+            
             int middle = (left + right)/2;
-            steps++;
+            
             if (nums[middle] == target) {
-                System.out.println("Steps taken by Binary: " + steps);
                 return middle;
-
             }
             else if (nums[middle] < target) {
                 left = middle + 1;
@@ -37,24 +34,20 @@ public class Demo {
             else{
                 right = middle - 1;
             }
-
         }
-        System.out.println("Steps taken by Binary: " + steps);
-
+        
         return -1;
     }
 
     private static int linearSearch(int[] nums, int target) {
-        int steps = 0;
+        
         for (int i = 0; i < nums.length; i++) {
-            steps++;
+            
             if(nums[i] == target){
-                System.out.println("Steps taken by linear: " + steps);
                 return i;    
             }
-            
         }
-        System.out.println("Steps taken by linear: " + steps);
+
         return -1;
     }
 }
