@@ -24,4 +24,5 @@ Day020 - Stream API with String \
 Day021 - Stream API with collectors  method \ 
 Day022 - String imutability \
 Day023 - Singleton design pattern \
-Day024 - DSA - Linear Search 
+Day024 - DSA - Linear Search \
+Day025 - DSA - Binary Search 
